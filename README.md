@@ -1,2 +1,4 @@
 # excel_chinese_to_pinying
-Excel 单元格，汉子转拼音
+Excel，汉字转拼音， 结果如下：
+
+![Result](https://github.com/lingwsh/excel_chinese_to_pinying/blob/main/result.png?raw=true)
